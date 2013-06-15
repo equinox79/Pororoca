@@ -1,9 +1,22 @@
-Pororoca
-========
+# NAME
 
-Image Uploader for Amazon S3
+Pororoca - It's new $module
 
+# SYNOPSIS
 
+    use Pororoca;
 
-junichiro79@gmail.com
+# DESCRIPTION
 
+Pororoca is ...
+
+# LICENSE
+
+Copyright (C) @equinox79.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+
+# AUTHOR
+
+@equinox79 <junichiro79@gmail.com>
